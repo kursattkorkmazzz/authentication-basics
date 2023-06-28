@@ -1,0 +1,14 @@
+{
+  "name": "basic-authentication",
+  "version": "1.0.0",
+  "description": "This is the basic-authentication example written by Kursat Korkmaz.",
+  "author": "Kürşat KORKMAZ <kursat.korkmaz123@hotmail.com>",
+  "main": "index.js",
+  "repository": {
+    "url": "Git url"
+  },
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "license": "ISC"
+}
